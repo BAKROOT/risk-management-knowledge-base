@@ -3,7 +3,7 @@
 
 ---
 
-## 0. What a Senior Security Risk Management role actually is
+## What a Senior Security Risk Management role actually is
 
 A Senior Information Security Engineer for Security Risk Management is not a penetration testing role, not a SOC role, and not a pure auditor role. It sits in the middle, and its purpose is best framed as:
 
